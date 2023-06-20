@@ -18,8 +18,6 @@ Para iniciar o projeto é necessário ter o [Node.js](https://nodejs.org/en) ins
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
 Após clonar esse repositório na pasta do projeto é necessário rodar o seguinte comando no terminal para baixar as dependencias do projeto:
 
 ```
